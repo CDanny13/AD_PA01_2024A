@@ -1,4 +1,11 @@
-﻿using System;
+﻿// ***************************************************************
+// Practica 07
+// Daniel Neacato
+// Fecha de realización: 11/06/2025
+// Fecha de entrega: 18/06/2025
+// ***************************************************************
+
+using System;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
